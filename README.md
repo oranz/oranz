@@ -4,8 +4,8 @@
 Actualmente trabajo analizando y realizando desarrollos para la integración de sistemas con IBM IIB9 e IBM MQ9, IBM DB2, WS, consultas REST y Sistema de archivos.
 
 ## 🌱 Formación
-- Recientemente he terminado el curso de NestJS de Fernando Herrera
-- Actualmente estoy con los cursos de PostgreSQL y Git + GitHub
+- Recientemente he terminado los cursos de NestJS y Git + GitHub de Fernando Herrera
+- Actualmente estoy con el curso de PostgreSQL
 
 
 <!--
